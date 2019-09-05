@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head></head>
 <body>
   <h1>The Brown Bear</h1>
   <div id="introduction">
@@ -17,4 +20,4 @@
     <h2>Media</h2>
   </div>
 </body>
-
+</html>
