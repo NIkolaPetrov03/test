@@ -1,9 +1,7 @@
 .Heading {
 	text-align: center;
+display: inline-block;
 }
 body {
 	background-image: url(darkbasement.jpg);	
-}
-.Heading {
-	text-indent: center;
 }
