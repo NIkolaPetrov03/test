@@ -1,8 +1,8 @@
-.Heading {
+header {
 	display: inline-block;
 	color: white;
 	text-align: center;
-	
+
 }
 body {
 	background-image: url(darkbasement.jpg);	
