@@ -18,3 +18,16 @@ p {
 	text-align: center;
 	color: white;
 }
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px
+	height: 100px
+}
+#riskybutton {
+	background color: white;
+	border: yellow;
+	text-align: center;
+	font-size: 18px
+}
