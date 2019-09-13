@@ -25,9 +25,13 @@ p {
 	width: 100px
 	height: 100px
 }
-#riskybutton {
-	background color: white;
-	border: yellow;
-	text-align: center;
-	font-size: 18px
+#button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }
