@@ -8,3 +8,12 @@ function Angles() {
 		alert('Not Valid, Please Try Again')
 
 	}
+
+	function Fours() {
+
+  for (let fours = 1; fours <= 100; fours++){
+  	if (fours==4)
+  		{console.log('True')};
+
+    }
+                                                                                                                                                                                           
