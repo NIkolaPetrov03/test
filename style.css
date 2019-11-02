@@ -7,7 +7,7 @@ font-family: "courier new";
 }
 body {
 	background-image: url(bg.jpg);	
-	height: 100%
+	background-size: 2000px 1100px;
 }
 h2 {
 	font-family: "courier new";
@@ -32,18 +32,40 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #A9F4DE; /* aqua */
+  border-radius: 12px;
 }
 
 li {
   float: left;
-  border-right: 1px solid #bbb;
+  border-right: 2px solid black;
 }
 
 li a {
   display: block;
-  color: white;
+  color: black;
   text-align: center;
-  padding: 14px 16px;
+  padding: 15px 15px;
   text-decoration: none;
+  font-family: 'courier new';
+}
+
+.button {
+  background-color: #A9F4DE; /* aqua */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  color: black;
+  border-radius: 12px;
+  display: block;
+  text-align: center;
+  font-family: 'courier new';
+}
+
+.infinity {
+	align-items: center;
 }
