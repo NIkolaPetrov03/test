@@ -9,11 +9,21 @@ function Angles() {
 
 	}
 
-	function Fours() {
+function Fours(i) {
 
-  for (let fours = 1; fours <= 100; fours++){
-  	if (fours==4)
-  		{console.log('True')};
+	var i;
 
-    }
-                                                                                                                                                                                           
+		for (var i= 0; i < 101; i++) {
+			if (i % 4 = 0);
+				console.log(i);
+			if (i % 10 = 0);
+				console.log(i);
+			else;
+				console.log(i);
+		}
+	}
+	
+function Centuries(year) {
+  	var year= prompt('Please Enter A Year');
+ 		alert(Math.ceil(year/100.0));
+ 	}                                                                                                                                                                                                                                                                                                                                                                         

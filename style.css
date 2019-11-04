@@ -66,6 +66,10 @@ li a {
   font-family: 'courier new';
 }
 
-.infinity {
-	align-items: center;
+.theoffice {
+  size: 100px 100px;
+}
+
+.gologo {
+  size: 100px 100px;
 }
